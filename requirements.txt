@@ -1,0 +1,6 @@
+langchain-core
+langgraph>0.2.27
+langchain_ollama
+fastapi[standard]
+uvicorn
+asyncio
